@@ -1,2 +1,10 @@
 git init
 git branch -M main
+
+git push -u https://github.com/OMORI-Aubrey/studyGithub.git main
+
+git remote add origin https://github.com/OMORI-Aubrey/studyGithub.git
+origin이라는 변수에 내 깃헙 프로젝트 주소 저장
+git push -u origin main << 이렇게
+
+근데 git push 할 때 -u를 썼으면 그냥 git push만 써도 됨
