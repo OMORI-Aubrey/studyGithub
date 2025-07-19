@@ -1,4 +1,4 @@
-git init
+git init 맨 처음에 작성
 git branch -M main
 
 git push -u https://github.com/OMORI-Aubrey/studyGithub.git main
