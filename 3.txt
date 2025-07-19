@@ -1,1 +1,5 @@
-테스트3
+원격 저장소에 새로운게 생기면 push 못함
+
+git pull 원격저장소주소 브랜치명
+git pull = git fetch + git merge
+원격저장소 신규 commit가져와서 내 브랜치에 merge
